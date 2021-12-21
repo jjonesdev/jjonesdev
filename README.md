@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning how to modularize and heavily test a codebase
 - 👾 I'm currently playing [subnautica](https://store.steampowered.com/app/264710/Subnautica/)
 - 💬 Ask me about Star Wars
-- ⚡ Fun fact: I love to play the drums!
+- ⚡ Fun fact: I love playing the drums!
 - 📫 How to reach me: jt.dev@fastmail.com
 - 😄 Pronouns: he/him
 
