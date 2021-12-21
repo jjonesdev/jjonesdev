@@ -6,8 +6,9 @@
 
 - 🔭 I’m currently working on app to help make selling your car a better experience with [driveway.com](https://www.driveway.com)
 - 🌱 I’m currently learning how to modularize and heavily test a codebase
-- 💬 Ask me about Star Wars
 - 👾 I'm currently playing [subnautica](https://store.steampowered.com/app/264710/Subnautica/)
+- 💬 Ask me about Star Wars
+- ⚡ Fun fact: I love to play the drums!
 - 📫 How to reach me: jt.dev@fastmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play the drums!
+
