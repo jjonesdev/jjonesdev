@@ -1,5 +1,5 @@
 <p align="center">
-  <img height=100 width=100 src="https://user-images.githubusercontent.com/36642060/146863832-d1ace8bb-227d-420d-8da1-fbfddc7b697e.png">
+  <img height=200 width=200 src="https://user-images.githubusercontent.com/36642060/146863832-d1ace8bb-227d-420d-8da1-fbfddc7b697e.png">
 </p>
 
 - 🔭 I’m currently working on an internal app for driveway.com to help make selling your car a better experience
