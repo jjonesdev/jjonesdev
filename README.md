@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on app to help make selling your car a better experience with [driveway.com](https://www.driveway.com)
 - 🌱 I’m currently learning how to modularize and heavily test a codebase
-- 👾 I'm currently playing [subnautica](https://store.steampowered.com/app/264710/Subnautica/)
+- 👾 I'm currently playing [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga)
 - 💬 Ask me about Star Wars
 - ⚡ Fun fact: I love playing the drums!
 - 📫 How to reach me: jt.dev@fastmail.com
